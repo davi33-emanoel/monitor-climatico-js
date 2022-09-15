@@ -1,7 +1,7 @@
 # Monitor climático
 
 Neste projeto foi construído um monitor climático,
-utilizando JavaScript/HTML e CSS, para seu funcionamento
+utilizando JavaScript/HTML e CSS. Para seu funcionamento
 utilizou-se 3 API'S sendo a primeira Weather API 
 https://openweathermap.org/api, (necessário fazer cadastro
 no plano Free para conseguir sua Key). A segunda é a Country Flag https://countryflagsapi.com
