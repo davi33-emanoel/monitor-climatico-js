@@ -22,8 +22,8 @@ Rode o projeto pelo método de clone disponível no github.
 ```bash
   git clone https://github.com/davi33-emanoel/monitor-de-clima.git
 ```
-Depois de clonado na pasta desejada, abra o vscode e coloque sua key
-obtida depois de realizar o cadastro no Weather API, na pasta js e crie um arquivo
+Depois de clonado na pasta desejada. Abra o vscode e coloque sua key
+na pasta js e crie um arquivo
 ```bash
     config.js
 ```
