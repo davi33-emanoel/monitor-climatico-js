@@ -22,12 +22,12 @@ Rode o projeto pelo método de clone disponível no github.
 ```bash
   git clone https://github.com/davi33-emanoel/monitor-de-clima.git
 ```
-Depois de clonado na pasta desejada. Abra o vscode e coloque sua key
-na pasta js e crie um arquivo
+Depois de clonado na pasta desejada. Abra o vscode e 
+na pasta js crie um arquivo 
 ```bash
     config.js
 ```
- Conforme demonstrado no arquivo
+ Conforme demonstrado no arquivo, coloque sua key
  ```bash 
   exemploConfig.js
 ``` 
