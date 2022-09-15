@@ -1,43 +1,35 @@
-
-# Monitor climática
+# Monitor climático
 
 Neste projeto foi construído um monitor climático,
-utilizando JavaScript/HTML e CSS, este projeto utiliza
-3 API'S para seu funcionamento a primeira é a Weather API 
-https://openweathermap.org/api, necessário fazer cadastro
-no plano Free para conseguir sua Key a segunda é a Country Flag https://countryflagsapi.com
-utilizada para mostrar as Bandeiras de cada Pais onde a cidade
-se localiza e por por último a Unsplash https://source.unsplash.com que faz a buscas
-das imagens que aparecem no background quando a cidade for pesquisada.
+utilizando JavaScript/HTML e CSS, para seu funcionamento
+utilizou-se 3 API'S sendo a primeira Weather API 
+https://openweathermap.org/api, (necessário fazer cadastro
+no plano Free para conseguir sua Key). A segunda é a Country Flag https://countryflagsapi.com
+utilizada para mostrar as bandeiras de cada país,conforme a cidade na barra de busca
+e, por por último, a Unsplash https://source.unsplash.com que faz a buscas
+das imagens que aparecem no background de acordo com a cidade pesquisada.
+
 Para utilizar o projeto clone-o no seu pc e realize o cadastro na API Weather para obter sua KEY.
-
-
-
-
-
 ## Instalação
 
-Rode o projeto pelo método de clone disponível no github.
+Rode o projeto pelo método de clone disponível neste respositório.
 
 ```bash
   git clone https://github.com/davi33-emanoel/monitor-de-clima.git
 ```
-Depois de clonado na pasta desejada. Abra o vscode e 
-na pasta js crie um arquivo 
+Depois de clonado na pasta desejada, abra o vscode e 
+na pasta js crie um arquivo :
 ```bash
     config.js
 ```
- Conforme demonstrado no arquivo, coloque sua key
+Coloque sua key conforme demonstrado no arquivo:
  ```bash 
   exemploConfig.js
 ``` 
-Em seu vscode abra o arquivo index.html para visualizar o projeto em seu navegador.
-
-
-    
+Em seu vscode, abra o arquivo index.html para visualizar o projeto em seu navegador.
 ## Uso
 
-Digite a cidade que deseja visualizar a temperatura no campo conforme demonstrado abaixo.
+Digite no campo a cidade para a qual deseja visualizar o clima, conforme demonstrado abaixo.
 
 <p textAlign="center">
 <img width="800" src="./assets/CWB.png">
