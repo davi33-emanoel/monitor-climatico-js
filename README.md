@@ -10,7 +10,16 @@ e, por por último, a Unsplash https://source.unsplash.com que faz a buscas
 das imagens que aparecem no background de acordo com a cidade pesquisada.
 
 Para utilizar o projeto clone-o no seu pc e realize o cadastro na API Weather para obter sua KEY.
+## Demo
+Por motivos de segurança o projeto não funciona no modo pages, então segue o video de funcionamento:
+
+https://user-images.githubusercontent.com/79283588/190292325-285d65b7-7f6c-48c6-ad41-c09ddc922ae5.mp4
+
 ## Instalação
+
+
+
+
 
 Rode o projeto pelo método de clone disponível neste respositório.
 
