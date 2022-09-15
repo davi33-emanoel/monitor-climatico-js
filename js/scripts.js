@@ -33,7 +33,6 @@ const getWeatherData = async(city)=>{
     const res = await fetch(apiWeatherURL);
     const data = await res.json();
     toggleLoader();
-    console.log(data)
     return data
 }
 
