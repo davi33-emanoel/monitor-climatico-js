@@ -9,7 +9,6 @@ no plano Free para conseguir sua Key a segunda é a Country Flag https://country
 utilizada para mostrar  as Bandeiras de cada Pais onde a cidade
 se localiza e por por ultimo a Unsplash https://source.unsplash.com que faz a bucas
 das imagens que aparecem no background quando a cidade for pesquisada.
-O gitHub Pages não funciona pois como arquivo da KEY da API Weather esta como ignore.
 para utilizar o projeto clone-o no meu pc e realize o cadastro na API Weather para obter sua KEY.
 
 
